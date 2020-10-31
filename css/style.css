@@ -364,3 +364,7 @@ h2 {
 #footer a {
     color: white;
 }
+
+.footer_menu {
+    padding-left: 15px;
+}
